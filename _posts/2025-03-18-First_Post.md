@@ -1,4 +1,4 @@
 ---
-Title: "My First Post"
-Date: 2025/03/18
+title: "My-First-Post"
+date: 2025-03-18
 ---
